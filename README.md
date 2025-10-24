@@ -16,3 +16,5 @@ Interactive **Power BI dashboard** showing universities worldwide. The dashboard
 ## Usage
 Open the `.pbix` file in **Power BI Desktop** to interact with the dashboard or explore visualizations.
 
+
+[View Dashboard Online](https://app.powerbi.com/links/Z4NvPKsCyf?ctid=41147bbe-0cc8-476e-b0ba-0a8c4e71e031&pbi_source=linkShare&bookmarkGuid=fe13dbef-1665-46a9-bd5d-7be188becbb7)
